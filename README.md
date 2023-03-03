@@ -5,7 +5,7 @@
 
 Download the ls.exe,copy it to custom folder and add it to system variables
 
-or
+### or
 
 Clone this responsory with this command
 
