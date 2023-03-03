@@ -1,6 +1,11 @@
 # ls-command-Windows
 
 ---------------
+## Installation
+
+Download the ls.exe,copy it to custom folder and add it to system variables
+
+or
 
 Clone this responsory with this command
 
